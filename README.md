@@ -1,9 +1,9 @@
 <h1 align="center"><strong>Md Yeasin Arafath</strong></h1>
 <h3 align="center">Full Stack Web Application Developer</h3>
 
-<a href="https://gitroll.io/profile/uGyJ8l144UOao3WmNMWRBFIDoEBh2" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uGyJ8l144UOao3WmNMWRBFIDoEBh2" alt="GitRoll Profile Badge"/>
-</a>
+With over 3 years of industry experience, I have collaborated with a wide variety of clients, from dynamic startups to established corporations.
+
+Specializing in PHP Laravel with the MERN stack as well as Node, Express, MongoDB, React with Next Js as well as WordPress, I bring expertise in building powerful, user-friendly websites that enhance online presence and achieve success.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
