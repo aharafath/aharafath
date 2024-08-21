@@ -2,7 +2,7 @@
 <h1 align="center"> <strong> Md Yeasin Araafth <strong/> </h1>
 <h3 align="center">Full Stack Web Application Developer</h3>
 
-<a href="https://my-porfolio-indol-two.vercel.app/_next/static/media/Business_SVG.7ee84f31.svg" target="_blank"><img src="https://my-porfolio-indol-two.vercel.app/_next/static/media/Business_SVG.7ee84f31.svg" alt="GitRoll Profile Badge"/></a>
+<a  style="  width: 150px;" href="https://my-porfolio-indol-two.vercel.app/_next/static/media/Business_SVG.7ee84f31.svg" target="_blank"><img src="https://my-porfolio-indol-two.vercel.app/_next/static/media/Business_SVG.7ee84f31.svg" alt="GitRoll Profile Badge"/></a>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
