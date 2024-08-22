@@ -5,6 +5,7 @@
 <p align="center">With over 3 years of industry experience, I have collaborated with a wide variety of clients, from dynamic startups to established corporations.</p>
 <p align="center">Specializing in PHP Laravel with the MERN stack as well as Node, Express, MongoDB, React with Next Js as well as WordPress, I bring expertise in building powerful, user-friendly websites that enhance online presence and achieve success.</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
